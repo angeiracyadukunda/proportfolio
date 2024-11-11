@@ -1,12 +1,19 @@
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import AboutMe from "./pages/aboutpage";
 
-import HOMEPAGE from "./pages/homepage";
-
-export default function Home() {
+const Home = () => {
   return (
-    <div className="bg-gray-700">
+    <div className="font-sans">
+      <Navbar />
+      <Hero />
 
-      <HOMEPAGE/>
-     
+      <div>
+      
+          <AboutMe />
+      </div>
     </div>
   );
-}
+};
+
+export default Home;
