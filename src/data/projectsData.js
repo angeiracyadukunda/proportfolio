@@ -7,7 +7,7 @@ import seven from '../assets/svg/projects/seven.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Rwandarise',
+        projectName: 'RwandaRize',
         projectDesc: 'RwandaRize is a secure and transparent crowdfunding platform designed to help Rwandans quickly and effectively raise funds for emergencies, community projects, and other critical needs, connecting local and global donors.',
         tags: ['NextJs', 'SAAS', 'Tailwind css', 'Shadcn ui', 'Typesript'],
         code: 'https://github.com/angeiracyadukunda/Rwanda_Rize',
