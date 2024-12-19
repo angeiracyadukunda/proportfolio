@@ -1,7 +1,7 @@
 import eight from '../assets/svg/projects/eight.svg'
-import seven from '../assets/svg/projects/seven.svg'
+import one from '../assets/svg/projects/one.svg'
 import six from '../assets/svg/projects/six.svg'
-import five from '../assets/svg/projects/five.svg'
+import seven from '../assets/svg/projects/seven.svg'
 
 
 export const projectsData = [
@@ -13,7 +13,7 @@ export const projectsData = [
         code: 'https://github.com/angeiracyadukunda/Rwanda_Rize',
         // demo: 'https://gdi1wr-5173.csb.app/',
         demo:'#',
-        image: six
+        image: one
     },
     {
         id: 2,
@@ -22,7 +22,7 @@ export const projectsData = [
         tags: ['HTML', 'Php', 'Bootstrap', 'Css'],
         code: '#',
         demo: 'https://globiexploreweb-1-00-git-ft-landingpage-anges-projects-9ffa48ff.vercel.app/',
-        image: seven
+        image: six
     },
     {
         id: 3,
@@ -40,7 +40,7 @@ export const projectsData = [
         tags: ['HTML', 'CSS', 'JavaScript', 'ejs', 'MongoDB', 'Firestore'],
         code: '#',
         demo: 'https://github.com/angeiracyadukunda/IRO-website-bn',
-        image: five
+        image: seven
     }
 ]
 
