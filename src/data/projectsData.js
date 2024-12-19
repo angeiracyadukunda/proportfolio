@@ -1,36 +1,46 @@
 import eight from '../assets/svg/projects/eight.svg'
 import seven from '../assets/svg/projects/seven.svg'
 import six from '../assets/svg/projects/six.svg'
+import five from '../assets/svg/projects/five.svg'
 
 
 export const projectsData = [
     {
         id: 1,
-        projectName: 'KNERDS',
-        projectDesc: 'This project is an Online Learning System Management. I designed it to help people access free courses on line on different topics',
-        tags: ['React', 'SAAS', 'React Bootstrap'],
-        code: 'https://github.com/GedeonMatabaro/KNERDS/tree/master',
+        projectName: 'Rwandarise',
+        projectDesc: 'RwandaRize is a secure and transparent crowdfunding platform designed to help Rwandans quickly and effectively raise funds for emergencies, community projects, and other critical needs, connecting local and global donors.',
+        tags: ['NextJs', 'SAAS', 'Tailwind css', 'Shadcn ui', 'Typesript'],
+        code: 'https://github.com/angeiracyadukunda/Rwanda_Rize',
         // demo: 'https://gdi1wr-5173.csb.app/',
-        demo:'https://pjrsbk-5173.csb.app/',
+        demo:'#',
         image: six
     },
     {
         id: 2,
-        projectName: 'KAZEABROAD',
-        projectDesc: 'This is the first website I designed for KazeAbroad, an Agency based on education.',
+        projectName:'GlobiExplore Web App',
+        projectDesc: 'This is the website for GlobiExplore, a startup based in the US, working in the travel industry',
         tags: ['HTML', 'Php', 'Bootstrap', 'Css'],
         code: '#',
-        demo: 'https://kazeabroad.com/',
+        demo: 'https://globiexploreweb-1-00-git-ft-landingpage-anges-projects-9ffa48ff.vercel.app/',
         image: seven
     },
     {
         id: 3,
-        projectName: 'Great Dream Academy',
-        projectDesc: 'This project about a educational agency.',
-        tags: ['HTML', 'CSS', 'JavaScript'],
-        code: '#',
-        demo: 'https://greatdreamacademy.com/',
+        projectName: 'Rwanda BloodBridge',
+        projectDesc: 'Final year project: Developed a web application to connect blood donors with recipients.',
+        tags: ['HTML', 'CSS', 'JavaScript', 'ejs', 'Firebase', 'Firestore'],
+        code: 'https://github.com/angeiracyadukunda/blood-bridge.git',
+        demo: 'blood-bridge-zeta.vercel.app',
         image: eight
+    },
+    {
+        id: 3,
+        projectName: 'SheCanCode Inventory Management System',
+        projectDesc: 'Worked as part of a team to develop a system for eﬃcient inventory tracking and request management. ',
+        tags: ['HTML', 'CSS', 'JavaScript', 'ejs', 'MongoDB', 'Firestore'],
+        code: '#',
+        demo: 'https://github.com/angeiracyadukunda/IRO-website-bn',
+        image: five
     }
 ]
 

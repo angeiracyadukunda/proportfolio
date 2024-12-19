@@ -1,11 +1,11 @@
 export const contactsData = {
-    email: 'mugishomatgedeon@gmail.com',
-    phone: '+918018421774',
-    address: 'Bhubaneswar, Odisha, India ',
-    github: 'https://github.com/GedeonMatabaro',
-    facebook: 'https://www.facebook.com/gedeon.mugisho.m/',
-    linkedIn: 'https://www.linkedin.com/in/mugishomatgedeon/',
-    twitter: 'https://twitter.com/gedeon_matabaro',
+    email: 'angeiracyadukunda@gmail.com',
+    phone: '+250781676496',
+    address: 'Kigali, Rwanda ',
+    github: 'https://github.com/angeiracyadukunda',
+    facebook: 'https://www.facebook.com/kwizera.ange.184?mibextid=ZbWKwL',
+    linkedIn: 'https://www.linkedin.com/in/angelique-iracyadukunda-437395294/',
+    twitter: 'https://x.com/AIracyadukunda ',
     medium: '#',
     stackOverflow: '#',
     devUsername: "#"

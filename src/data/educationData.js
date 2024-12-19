@@ -1,26 +1,19 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Kalinga Institute of Industrial Technology',
-        course: 'Bachelor Degree',
+        institution: 'IPRC/Ngoma College',
+        course: 'Advanced Diploma (A1) in Information Technology',
         startYear: '2021',
         endYear: 'Present',
-        grade: '9.35 / 10'
+        grade: ''
     },
     {
         id: 2,
-        institution: 'College Alfajiri',
-        course: 'Secondary School',
-        startYear: '2014',
-        endYear: '2020',
+        institution: 'Samuduha Integrated College',
+        course: 'Secondary Education in Network Administration',
+        startYear: '2015',
+        endYear: '2021',
         grade: '83%'
     },
-    {
-        id: 3,
-        institution: 'Ep1 Ibanda',
-        course: 'Primary School',
-        startYear: '2008',
-        endYear: '2014',
-        grade: '93%'
-    },
+    
 ]
